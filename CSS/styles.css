@@ -1,0 +1,42 @@
+body{
+    background-color:#dcdcdc;
+}
+
+hr{
+    background-color: none;
+    height :0px;
+    width:3%;
+    border-style: none;
+    border-top-style:dotted;
+    border-width:5px;
+    border-color: grey;
+}
+h3{
+    font-size: 30px;
+    font-weight:normal;
+}
+h1{
+    font-size: 50px;
+    font-weight:normal;
+}
+h1,h3{
+    color:#66BFBF;
+}
+.resume{
+    color:#B3005E;
+    text-decoration: none;
+}
+.resume:hover{
+    color:black;
+}
+.top{
+    text-align: certer;
+    margin:50px auto;
+}
+.contact{
+    color:#B3005E;
+    text-decoration: none;
+}
+.contact:hover{
+    color:black;
+}
